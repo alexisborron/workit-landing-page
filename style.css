@@ -244,6 +244,7 @@ img {
   display: block; /* removes the inline gap beneath SVGs */
   width: 100%;
   height: clamp(24px, 7vw, 90px); /* ~54px at 768px */
+  color: var(--purple-100);
 }
 
 /* ==========================================================================
@@ -264,6 +265,7 @@ img {
   display: block; /* removes the inline gap beneath SVGs */
   width: 100%;
   height: clamp(24px, 7vw, 90px); /* ~54px at 768px */
+  color: var(--white);
 }
 
 .features__list {
